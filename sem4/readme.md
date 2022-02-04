@@ -1,9 +1,13 @@
-# BSTU, ICS7
+# 4th semester
 
-All works for all courses from Bauman Moscow State Technical University
+## Courses
 
-**Faculty:** Informatics and Control Systems (ICS)
+### [Computer Graphics](https://github.com/alena-zayts/BMSTU_4sem_computer_graphics)
 
-**Department:** Computer Software and Information Technologies (ICS7)
+### [Assembly](https://github.com/alena-zayts/BMSTU_4sem_assembly)
 
-**Direction:** Software Engineering (09.03.04)
+### [Object-Oriented Programming](https://github.com/alena-zayts/BMSTU_4sem_object_oriented_programming)
+
+### [Computer's Architecture](https://github.com/alena-zayts/BMSTU_4sem_computers_architecture)
+
+### [Computational Algorithms](https://github.com/alena-zayts/BMSTU_4sem_computational_alogorithms)
