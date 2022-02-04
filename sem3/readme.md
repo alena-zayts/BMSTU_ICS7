@@ -1,9 +1,7 @@
-# BSTU, ICS7
+# 3d semester
 
-All works for all courses from Bauman Moscow State Technical University
+## Courses
 
-**Faculty:** Informatics and Control Systems (ICS)
+### [Programming in C](https://github.com/alena-zayts/BMSTU_3sem_programming_in_C)
 
-**Department:** Computer Software and Information Technologies (ICS7)
-
-**Direction:** Software Engineering (09.03.04)
+### [Types and Data Structures](https://github.com/alena-zayts/BMSTU_3sem_types_and_data_structures)
