@@ -1,9 +1,9 @@
-# BSTU, ICS7
+# 2rd semester
 
-All works for all courses from Bauman Moscow State Technical University
+## Courses
 
-**Faculty:** Informatics and Control Systems (ICS)
+### [Programming in C](https://github.com/alena-zayts/BMSTU_2sem_programming_in_C)
 
-**Department:** Computer Software and Information Technologies (ICS7)
+## Practice
 
-**Direction:** Software Engineering (09.03.04)
+### [Programming in C](https://github.com/alena-zayts/BMSTU_2sem_practice_in_C)
