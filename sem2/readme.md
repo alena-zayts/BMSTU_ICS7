@@ -1,4 +1,4 @@
-# 2rd semester
+# 2nd semester
 
 ## Courses
 
