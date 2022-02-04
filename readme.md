@@ -51,11 +51,23 @@ All works for all courses from Bauman Moscow State Technical University
 
 
 
-# 3d semester
+# 3rd semester
 
 ## Courses
 
 ### [Programming in C](https://github.com/alena-zayts/BMSTU_3sem_programming_in_C)
 
 ### [Types and Data Structures](https://github.com/alena-zayts/BMSTU_3sem_types_and_data_structures)
+
+
+# 2nd semester
+
+## Courses
+
+### [Programming in C](https://github.com/alena-zayts/BMSTU_2sem_programming_in_C)
+
+## Practice
+
+### [Programming in C](https://github.com/alena-zayts/BMSTU_2sem_practice_in_C)
+
 
