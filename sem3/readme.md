@@ -1,4 +1,4 @@
-# 3d semester
+# 3rd semester
 
 ## Courses
 
