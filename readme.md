@@ -6,7 +6,33 @@ All works for all courses from Bauman Moscow State Technical University
 
 **Department:** Computer Software and Information Technologies (ICS7)
 
-**Direction:** Software Engineering (09.03.04)
+**Track:** Software Engineering (09.03.04)
+
+
+
+
+
+# 5th semester
+
+## Courses
+
+### [Operating Systems](https://github.com/alena-zayts/BMSTU_5sem_operating_systems)
+
+### [Computer Architecture](https://github.com/alena-zayts/BMSTU_5sem_computer_architecture)
+
+### [Analysis of Algorithms](https://github.com/alena-zayts/BMSTU_5sem_analysis_of_algorithms)
+
+### [Databases](https://github.com/alena-zayts/BMSTU_5sem_databases)
+
+## Other works (coursework)
+
+### [Research work on "Text Simplification"](https://github.com/alena-zayts/BMSTU_5sem_research_work)
+
+### [Computer graphics coursework](https://github.com/alena-zayts/BMSTU_5sem_computer_graphics_course_project)
+
+
+
+
 
 
 # 4th semester
