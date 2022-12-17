@@ -9,6 +9,29 @@ All works for all courses from Bauman Moscow State Technical University
 **Track:** Software Engineering (09.03.04)
 
 
+# 7th semester
+
+## Courses
+
+### [Modeling](https://github.com/alena-zayts/BMSTU_7sem_modelings)
+
+### [Testing and debugging](https://github.com/alena-zayts/BMSTU_7sem_testing_and_debugging)
+
+### [Web](https://github.com/alena-zayts/BMSTU_7sem_web)
+
+### [Information security](https://github.com/alena-zayts/BMSTU_7sem_information_security)
+
+
+## Other works (coursework)
+
+### [Operating systems coursework](https://github.com/alena-zayts/BMSTU_7sem_os_coursework)
+
+
+
+
+
+
+
 # 6th semester
 
 ## Courses
