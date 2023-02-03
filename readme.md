@@ -13,7 +13,7 @@ All works for all courses from Bauman Moscow State Technical University
 
 ## Courses
 
-### [Modeling](https://github.com/alena-zayts/BMSTU_7sem_modelings)
+### [Modeling](https://github.com/alena-zayts/BMSTU_7sem_modeling)
 
 ### [Testing and debugging](https://github.com/alena-zayts/BMSTU_7sem_testing_and_debugging)
 
