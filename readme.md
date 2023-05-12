@@ -9,6 +9,16 @@ All works for all courses from Bauman Moscow State Technical University
 **Track:** Software Engineering (09.03.04)
 
 
+# 8th semester
+
+## Courses
+
+### [Experiment planning](https://github.com/alena-zayts/BMSTU_8sem_experiment_planning)
+
+### [Economics of Software Engineering](https://github.com/alena-zayts/BMSTU_8sem_economics_of_software_engineering)
+
+
+
 # 7th semester
 
 ## Courses
